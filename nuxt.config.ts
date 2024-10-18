@@ -23,5 +23,12 @@ export default defineNuxtConfig({
       enabled: true
     }
   },
-  modules: ['@nuxtjs/tailwindcss', '@nuxt/image', '@nuxt/icon']
+  modules: [
+    '@nuxtjs/tailwindcss',
+    '@nuxt/image',
+    '@nuxt/icon',
+    '@vueuse/nuxt',
+    "@nuxt/scripts",
+    '@formkit/auto-animate/nuxt',
+  ]
 })
