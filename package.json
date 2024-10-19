@@ -17,6 +17,7 @@
     "@vueuse/core": "^11.1.0",
     "@vueuse/nuxt": "^11.1.0",
     "gsap": "^3.12.5",
+    "lenis": "^1.1.14",
     "nuxt": "^3.13.0",
     "vue": "latest",
     "vue-router": "latest"
