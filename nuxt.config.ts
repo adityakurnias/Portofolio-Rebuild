@@ -13,7 +13,13 @@ export default defineNuxtConfig({
         {
           "charset": "utf-8"
         },
-      ]
+      ],
+      link: [
+        {
+          rel: "icon", type: "image/x-icon", href: "/favicon.ico"
+        }
+      ],
+      title: "Adityakurnias.",
     }
   },
   devtools: {
@@ -29,6 +35,5 @@ export default defineNuxtConfig({
     '@nuxt/icon',
     '@vueuse/nuxt',
     "@nuxt/scripts",
-    '@formkit/auto-animate/nuxt',
   ]
 })
