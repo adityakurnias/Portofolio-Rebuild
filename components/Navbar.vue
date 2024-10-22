@@ -4,7 +4,7 @@
     <span @click="toTop" class="cursor-pointer text-3xl font-mono">Aditya.</span>
     <img
       class=" w-12 cursor-pointer justify-self-end transition-transform duration-300 ease-in-out hover:rotate-[360deg] hover:scale-110"
-      src="/img/Icon.png" />
+      src="/assets/img/Icon.png" />
   </nav>
 </template>
 

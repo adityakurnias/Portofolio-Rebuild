@@ -33,5 +33,6 @@ export default defineNuxtConfig({
     '@nuxt/icon',
     '@vueuse/nuxt',
     "@nuxt/scripts",
+    "@tresjs/nuxt"
   ]
 })
